@@ -1,0 +1,50 @@
+[   
+    {
+        "id":1,
+        "imagen": "https://www.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/5/1/510010ah7858010-1.jpg",
+        "categoria":"calzado",
+        "nombre":"Zapatillas",
+        "descripcion":"Zapatillas deportivas marca nike para el ejercicio ",
+        "precio":"28.500"
+    },
+    {
+        "id":2,
+        "imagen": "https://www.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/o/j/ojotas-adidas-adissage-negra-100010f35580001-1.jpg",
+        "categoria":"calzado",
+        "nombre":"Ojotas",
+        "descripcion":"Ojotas ADISSAGE marca Adidas ",
+        "precio":"36800"
+    },
+    {
+        "id":3,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_816620-MLA71004728637_082023-F.webp",
+        "categoria":"pantalon",
+        "nombre":"Pantalon Cargo",
+        "descripcion":" Gabardina Bolsillos Jogger Jogging Para Hombre",
+        "precio":"17.200"
+    },
+    {
+        "id":4,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_998533-MLA52170707630_102022-F.webp",
+        "categoria":"pantalon",
+        "nombre":"Pantalon Palazzo",
+        "descripcion":"Pantalon Palazzo Lino para Mujer",
+        "precio":"7800"
+    },
+    {
+        "id":5,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_614885-MLA73021227743_112023-F.webp",
+        "categoria":"camisa",
+        "nombre":"Camisa",
+        "descripcion":"Camisa Hombre Entallada Lisa Cuello Italiano",
+        "precio":"13.800"
+    },
+    {
+        "id":6,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_847276-MLA73474294772_122023-F.webp",
+        "categoria":"camisa",
+        "nombre":"Camisola",
+        "descripcion":"Camisola Blusa Mujer Fibrana Estampada Oversize",
+        "precio":"15.300"
+    }
+]
